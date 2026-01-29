@@ -1,0 +1,18 @@
+# Mengabaikan folder environment (sesuaikan dengan nama folder env kamu)
+venv/
+env/
+.env/
+bin/
+lib/
+include/
+
+# Mengabaikan folder cache Python & TensorFlow
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Mengabaikan dataset besar atau model yang sudah di-save (opsional)
+*.h5
+*.keras
+*.csv
