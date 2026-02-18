@@ -16,3 +16,6 @@ __pycache__/
 *.h5
 *.keras
 *.csv
+
+# mengabaikan folder glove
+glove/
